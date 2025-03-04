@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Beyond his professional achievements, Mr. Gohring’s hobbies
+  include attending concerts and traveling in his camper. He also enjoys playing
+  football and volleyball.
 published: true
 schemaType: WebPage
 header: Blog
