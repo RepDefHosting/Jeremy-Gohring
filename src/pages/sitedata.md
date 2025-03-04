@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Jeremy Gohring
+jobTitle: Executive Chef and Construction Professional
+location: Attleboro, Massachusetts
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/jeremy-gohring.jpeg
+  alt: Jeremy Gohring
+siteUrl: https://www.aboutjeremygohring.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/jeremy.gohring
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/jeremy-gohring-126615338/
     label: Visit
     show: true
   pinterest:
