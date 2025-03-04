@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Jeremy Gohring
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -13,11 +13,14 @@ subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
   src: /img/businesshero2.png
-  alt: Hero Image for home page
+  alt: Jeremy Gohring
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A resident of Attleboro, Massachusetts, Jeremy Gohring
+  graduated from Attleboro High School in 2006 where he focused his studies on
+  carpentry. Jeremy Gohring was among 65 graduates awarded a scholarship made
+  possible by the Attleboro Area Football Hall of Fame and the L.G. Balfour
+  Foundation.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A resident of Attleboro, Massachusetts, Jeremy Gohring graduated from Attleboro High School in 2006 where he focused his studies on carpentry. Jeremy Gohring was among 65 graduates awarded a scholarship made possible by the Attleboro Area Football Hall of Fame and the L.G. Balfour Foundation.
